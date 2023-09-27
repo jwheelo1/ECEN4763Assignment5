@@ -6,7 +6,7 @@ In this assignment you will create 2 search classes for graphs. A class for Brea
 
 ## Goal
 
-The main goal for this assignment is to learn how search graphs and use data structures you have created.
+The main goal for this assignment is to learn how to search efficiently in graphs and use data structures you have created.
 
 ## Grading
 
@@ -26,6 +26,7 @@ The main goal for this assignment is to learn how search graphs and use data str
 - There must be at least 28 UTs for this assignment (every UT missed is an automatic -1)
     - 14 UTs for BFS
     - 14 UTs for DFS
+- You may need more tests for Graph in order to get 100% coverage, but these will not count towards your test score
 - All unit tests belong in the test folder and each file must begin with test i.e. (test_array.py)
 
 ### Code Coverage
