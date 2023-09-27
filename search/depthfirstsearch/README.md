@@ -31,14 +31,14 @@ Depth-first search (DFS) is an algorithm used to determine whether there is a pa
 
 ## Example
 Given the following graph:
-'''
+```
 GRAPH = {
     'a': ['b', 'c'],
     'b': ['d'],
     'c': ['d'],
     'd': []
 }
-'''
+```
 a depth first search starting at a would return the following: ['a', 'b', 'd', 'c'] as the nodes are traversed to in the order that they are stored in the graph. 
 
 ## Tests
